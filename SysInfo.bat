@@ -1,4 +1,4 @@
-//Created by Keith Griffiths 2020
+//Created by Keith Griffiths 2021
 
 Echo #Description		#Output >> SysInfo.txt
 Echo Date			%date% >> SysInfo.txt
